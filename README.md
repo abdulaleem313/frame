@@ -1,5 +1,5 @@
 # Frame
-
+[ ![Codeship Status for abdulaleem313/frame](https://app.codeship.com/projects/1f53e6e0-aefe-0134-8080-6ab5102948e8/status?branch=master)](https://app.codeship.com/projects/192774)
 A user system API starter. Bring your own front-end.
 
 [![Build Status](https://travis-ci.org/jedireza/frame.svg?branch=master)](https://travis-ci.org/jedireza/frame)
